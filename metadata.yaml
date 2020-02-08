@@ -1,0 +1,37 @@
+_repo: Heliogabalus-A-Buffoonery-in-Three-Acts_61281
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Mencken, H. L. (Henry Louis)
+    aliases:
+    - Mencken, Henry L.
+    - Mencken, Henry Louis
+    - Hatteras, Owen
+    birthdate: 1880
+    deathdate: 1956
+    gutenberg_agent_id: '578'
+    url: http://www.gutenberg.org/2009/agents/578
+    wikipedia: https://en.wikipedia.org/wiki/H._L._Mencken
+  - agent_name: Nathan, George Jean
+    birthdate: 1882
+    deathdate: 1958
+    gutenberg_agent_id: '9219'
+    url: http://www.gutenberg.org/2009/agents/9219
+    wikipedia: https://en.wikipedia.org/wiki/George_Jean_Nathan
+description: ''
+gutenberg_issued: '2020-01-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61281'
+  lccn: '20013988'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Elagabalus, Emperor of Rome, 204-222 -- Drama'
+- !lcc 'PS'
+- !lcsh 'Comedies'
+- GITenberg
+title: 'Heliogabalus: A Buffoonery in Three Acts'
+url: http://www.gutenberg.org/ebooks/61281
