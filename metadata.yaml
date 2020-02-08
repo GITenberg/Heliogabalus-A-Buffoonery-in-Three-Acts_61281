@@ -1,5 +1,8 @@
 _repo: Heliogabalus-A-Buffoonery-in-Three-Acts_61281
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61281-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Mencken, H. L. (Henry Louis)
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9219
     wikipedia: https://en.wikipedia.org/wiki/George_Jean_Nathan
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61281#Heliogabalus-A-Buffoonery-in-Three-Acts
 gutenberg_issued: '2020-01-31'
 gutenberg_type: Text
 identifiers:
